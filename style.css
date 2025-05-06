@@ -1,0 +1,393 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    /* text-align: center; */
+    width: 100%;
+    margin: 0 auto;
+    /* min-width: 277px; */
+    max-width: 1680px;
+    
+}
+header{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    display: flex;
+}
+header .head{
+    display: flex;
+    height: 1px;
+    margin-top: 21px;
+}
+header .he{
+    font-size: 24px;
+    font-family: Roboto,Arial,sans-serif;
+    text-align: right;
+    color: black;
+}
+body{
+    background-color: #ffffff;
+}
+/* main{
+    margin: 0 auto;
+    min-width: 978px;
+    max-width: 1680px;
+    padding: 8px;
+    height: 100%;
+} */
+.realme{
+    
+    text-align: left;
+    margin: 50px 0px 0px 10px;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 35px;
+    position: relative;
+}
+.a{
+    
+    width: 100%;
+    padding: 0px;
+    margin-top: -1px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    
+  
+}
+.b{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+
+.c{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background: url(https://youtu.be/_f9LWmVX4rY?si=PstXPadDSWqS2WmS);
+    cursor: pointer;
+    
+  
+}
+
+.d{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.e{
+    width: 100%;
+    padding: 0px;
+    margin-top: -4px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.f{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.g{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.h{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.i{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.j{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.k{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.l{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.m{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.n{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.o{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.p{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.q{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.r{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.p{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.s{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.t{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.u{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.p{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.v{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.w{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.x{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.y{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.z{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.aa{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.bb{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+.cc{
+    width: 100%;
+    padding: 0px;
+    margin-top: -5px;
+    margin-bottom: -3px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: none; }
+.row{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+footer{
+    background-color: #172337;
+    font-family: Roboto,Arial,sans-serif;
+    border-top: 1px solid #ddd;
+    font-size: 12px;
+    margin-top: 25px ;
+    display: flex;
+    line-height: 2;
+    
+
+    
+    
+    
+}
+ul{
+    list-style-type: none;
+    min-width: 0px;
+}
+
+body .footer{
+    display: flex;
+    margin-left: 65px;
+    width: 90%!important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    
+    
+}
+.about{
+    color: #878787;
+    
+    
+    
+   
+
+    
+}
+
+.abo{
+    color: white;
+    letter-spacing: 0px;
+    margin-bottom: 5px;
+
+    
+    
+}
+
+
